@@ -1,6 +1,8 @@
 # cyclistic_capstone_project
 Overview of steps taken for the Google Data Analytics Certificate Capstone Project
 
+In this scenario, I'm tasked with trying to understand how Cyclistic's two different customer types use their bikes differently: annual members and casual riders. The CEO of Cyclistic believes that annual members are key to the company's growth and long-term success. So once the differences between the two customer types is understood, my job is to make recommendations for next steps to drive more member growth.
+
 Cyclistic’s data was organized into monthly tables. There was some older data from 2019 and earlier that was organized by quarter, but I chose to work with more recent data to take post-covid customer habits into account; I used data for the months of July 2022 through June 2023. I also used data going back to July of 2020 to identify long-term historical trends.
 
 There were some NULL values found in the location data columns, but they wouldn't impact my analysis too much. I was mainly focused on broader differences between the two customer types: subscribers and casual riders.
